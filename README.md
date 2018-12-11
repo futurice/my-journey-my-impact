@@ -1,7 +1,6 @@
 # My Journey x My Impact
 Futurice's career progression framework.
 
-## What is the My Journey x My Impact?
 **My Journey:** Forward looking career planning discussion together with Employee and Supervisor, Career buddy / Mentor
 
 **My Impact:** Reflective performance appraisal discussion together with Employee and Supervisor, Career buddy / Mentor
