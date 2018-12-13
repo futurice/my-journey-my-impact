@@ -57,6 +57,8 @@ Share your updated My Journey canvas (can be a photo) with your Supervisor / Car
 Consider sharing your My Journey canvas with colleagues! Your journey & goals are an inspiration for others and help your colleagues support you on your journey.
 
 
+# License
 
+All the materials in this My Journey x My Impact repository are licensed with [CC BY-SA 4.0](LICENSE).
 
 
