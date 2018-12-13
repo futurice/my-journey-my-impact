@@ -1,9 +1,10 @@
-## Feedback
+# Feedback
+
 Each and every one of us own our feedback and are responsible for gathering it latest when filling the My Impact canvas. 
 
 There are several tools available for gathering feedback.
 
-- Feedback letter (example letter)
+- Feedback letter ([example letter](feedback-letter.md))
 - Google forms
 - E-mail
 - Face-to-face discussion
